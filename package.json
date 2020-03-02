@@ -16,10 +16,5 @@
     "electron": "^8.0.2",
     "electron-builder": "^22.3.2",
     "electron-updater": "^4.2.2"
-  },
-  "dependencies":{
-    "electron": "^8.0.2",
-    "electron-builder": "^22.3.2",
-    "electron-updater": "^4.2.2"
   }
 }
