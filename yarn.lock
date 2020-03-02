@@ -546,7 +546,7 @@ electron-publish@22.3.5:
     lazy-val "^1.0.4"
     mime "^2.4.4"
 
-electron-updater@^4.0.0:
+electron-updater@^4.2.2:
   version "4.2.2"
   resolved "https://registry.yarnpkg.com/electron-updater/-/electron-updater-4.2.2.tgz#57e106bffad16f71b1ffa3968a52a1b71c8147e6"
   integrity sha512-e/OZhr5tLW0GcgmpR5wD0ImxgKMa8pPoNWRcwRyMzTL9pGej7+ORp0t9DtI5ZBHUbObIoEbrk+6EDGUGtJf+aA==
