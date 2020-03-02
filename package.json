@@ -1,6 +1,6 @@
 {
   "name": "test1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "main.js",
   "license": "MIT",
   "scripts": {
@@ -13,6 +13,11 @@
     "url": "https://github.com/CallBackWJ/electron-test.git"
   },
   "devDependencies": {
+    "electron": "^8.0.2",
+    "electron-builder": "^22.3.2",
+    "electron-updater": "^4.2.2"
+  },
+  "dependencies":{
     "electron": "^8.0.2",
     "electron-builder": "^22.3.2",
     "electron-updater": "^4.2.2"
