@@ -13,11 +13,10 @@
     "url": "https://github.com/CallBackWJ/electron-test.git"
   },
   "dependencies": {
-    "electron-updater": "^2.18.2"
+    "electron-updater": "^4.0.0"
   },
   "devDependencies": {
     "electron": "^8.0.2",
     "electron-builder": "^22.3.2"
-   
   }
 }
